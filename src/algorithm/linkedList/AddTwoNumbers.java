@@ -1,4 +1,4 @@
-package algorithm.array.algorithm.linkedList;
+package algorithm.linkedList;
 
 /**
  * 2. Add Two Numbers

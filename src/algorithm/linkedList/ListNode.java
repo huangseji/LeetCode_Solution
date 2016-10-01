@@ -1,4 +1,4 @@
-package algorithm.array.algorithm.linkedList;
+package algorithm.linkedList;
 
 /**
  * This is the linked list node definition.
