@@ -3,6 +3,7 @@
 # Java gitignore #
 .class
 .log
+**/*.class
 
 # Package Files #
 
